@@ -77,7 +77,7 @@ Simülasyon, 22 dBm çıkış gücü ve 5 dBi anten kazancı varsayımıyla yap�
 
 | Kapsama | Veri hızı |
 |---|---|
-| ![Kapsama](sf-coverage-simulation.png) | ![Veri hızı](images/sf-datarate-simulation.png) |
+| ![Kapsama](sf-coverage-simulation.png) | ![Veri hızı](sf-datarate-simulation.png) |
 
 ## Kurulum
 
