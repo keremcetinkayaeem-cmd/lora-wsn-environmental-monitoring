@@ -33,7 +33,7 @@ Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği bitirme projesi (Hazira
 
 | Uç düğüm | Ağ geçidi |
 |---|---|
-| ![Uç düğüm](images/node-real.jpg) | ![Ağ geçidi](images/gateway-real.jpg) |
+| ![Uç düğüm](node-real.jpg) | ![Ağ geçidi](images/gateway-real.jpg) |
 
 ## PCB Tasarımı (Altium Designer)
 
