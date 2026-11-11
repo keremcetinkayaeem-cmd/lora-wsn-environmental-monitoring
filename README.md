@@ -81,11 +81,11 @@ Simülasyon, 22 dBm çıkış gücü ve 5 dBi anten kazancı varsayımıyla yap�
 
 ## Kurulum
 
-1. `firmware/node/node.ino` dosyasını Arduino Nano'ya yükle. İkinci düğüm için dosyanın başındaki `NODE_ID` değerini 2 yap.
-2. `firmware/gateway/gateway.ino` dosyasını Arduino Uno'ya yükle. Önce Wi-Fi adı, şifresi ve ThingSpeak kanal yazma anahtarlarını (`API_KEY_BURAYA`) kendi bilgilerinle değiştir.
+1. `node.ino` dosyasını Arduino Nano'ya yükle. İkinci düğüm için dosyanın başındaki `NODE_ID` değerini 2 yap.
+2. `gateway.ino` dosyasını Arduino Uno'ya yükle. Önce Wi-Fi adı, şifresi ve ThingSpeak kanal yazma anahtarlarını (`API_KEY_BURAYA`) kendi bilgilerinle değiştir.
 3. Gerekli Arduino kütüphaneleri: Adafruit SGP30, DHT sensor library, hp_BH1750.
 
-> **Not:** Wi-Fi şifresini ve API anahtarlarını asla repoya yükleme.
+
 
 ## Proje Ekibi
 
