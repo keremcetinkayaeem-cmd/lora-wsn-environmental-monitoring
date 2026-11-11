@@ -6,7 +6,7 @@ Erciyes Üniversitesi Elektrik-Elektronik Mühendisliği bitirme projesi (Hazira
 
 > English summary: A star-topology LoRa (868 MHz) wireless sensor network with 2 end nodes and 1 gateway, measuring temperature, humidity, light, TVOC and soil moisture, with cloud monitoring on ThingSpeak. Custom PCBs for both the node and the gateway were designed in Altium Designer and manufactured.
 
-![Sistem blok diyagramı](images/system-diagram.png)
+![Sistem blok diyagramı](system-diagram.png)
 
 ## Öne Çıkanlar
 
