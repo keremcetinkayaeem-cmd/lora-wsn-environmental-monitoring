@@ -56,7 +56,7 @@ Prototip önce breadboard üzerinde doğrulandı, ardından şema ve PCB tasarı
 
 ## Saha Testi
 
-![Saha testi](images/field-test-1.38km.png)
+![Saha testi](field-test-1.38km.png)
 
 | Parametre | Değer |
 |---|---|
@@ -89,11 +89,11 @@ Simülasyon, 22 dBm çıkış gücü ve 5 dBi anten kazancı varsayımıyla yap�
 
 ## Proje Ekibi
 
-| İsim | Katkı |
+| İsim
 |---|---|
-| Kerem Çetinkaya | Altium şema ve PCB tasarımı (uç düğüm ve ağ geçidi) |
-| Yusuf Dikici | Koruyucu kutu tasarımı (Siemens NX), [diğer katkılar] |
-| Tümer Demirkol | Koruyucu kutu tasarımı (Siemens NX), [diğer katkılar] |
+| Kerem Çetinkaya 
+| Yusuf Dikici 
+| Tümer Demirkol 
 
 Danışman: Prof. Dr. Ömer Galip Saraçoğlu
 
