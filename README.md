@@ -97,7 +97,6 @@ Simülasyon, 22 dBm çıkış gücü ve 5 dBi anten kazancı varsayımıyla yap�
 
 Danışman: Prof. Dr. Ömer Galip Saraçoğlu
 
-Tam rapor: [docs/rapor.pdf](docs/rapor.pdf)
 
 ## Bilinen Sınırlar ve Geliştirme Fikirleri
 
