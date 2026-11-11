@@ -41,11 +41,11 @@ Prototip önce breadboard üzerinde doğrulandı, ardından şema ve PCB tasarı
 
 | Uç düğüm PCB | Ağ geçidi PCB (Arduino Uno shield) |
 |---|---|
-| ![Uç düğüm PCB](hardware/pcb/node-pcb.png) | ![Ağ geçidi PCB](hardware/pcb/gateway-pcb.png) |
+| ![Uç düğüm PCB](node-pcb.png) | ![Ağ geçidi PCB](gateway-pcb.png) |
 
 | Uç düğüm şeması | Ağ geçidi şeması |
 |---|---|
-| ![Uç düğüm şeması](hardware/schematic/node-schematic.png) | ![Ağ geçidi şeması](hardware/schematic/gateway-schematic.png) |
+| ![Uç düğüm şeması](node-schematic.png) | ![Ağ geçidi şeması](gateway-schematic.png) |
 
 **Öne çıkan tasarım kararları**
 
