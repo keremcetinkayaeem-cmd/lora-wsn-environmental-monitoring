@@ -69,7 +69,7 @@ Prototip önce breadboard üzerinde doğrulandı, ardından şema ve PCB tasarı
 
 | Düğüm 1 | Düğüm 2 |
 |---|---|
-| (thingspeak-node1.png) | (thingspeak-node2.png) |
+| ![Düğüm 1](thingspeak-node1.png) | ![Düğüm 2](thingspeak-node2.png) |
 
 ## SF7-SF12 Simülasyonu (MATLAB)
 
